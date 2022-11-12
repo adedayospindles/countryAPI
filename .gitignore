@@ -1,0 +1,13 @@
+analysis_options.yaml
+android
+countryapi.iml
+ios
+lib
+linux
+macos
+pubspec.lock
+pubspec.yaml
+README.md
+test
+web
+windows
